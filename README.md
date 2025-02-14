@@ -52,7 +52,7 @@ This lab is designed to be cloud-based and accessible from any computer. The lab
      - STIG ID WN10-SO-000025 (Rename Guest Account) - Initial Fail
      - STIG ID WN10-SO-000010 (Disable Guest Account) - Initial Pass
 
-     <img width="1690" alt="image" src="https://github.com/user-attachments/assets/b4393be5-5f17-4b86-8ad2-54216531ef07" />
+![image](https://github.com/user-attachments/assets/f5f58ec0-6fe8-418a-a556-1b67ebd88d29)
      <img width="1690" alt="image" src="https://github.com/user-attachments/assets/89eae55d-5a6b-405e-8095-6d68caa68f96" />
      <img width="1690" alt="image" src="https://github.com/user-attachments/assets/30a36968-bdb5-4815-9153-56d0e12caebf" />
 
