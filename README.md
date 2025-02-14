@@ -41,7 +41,8 @@ This lab is designed to be cloud-based and accessible from any computer. The lab
 
 **Scan Configuration**
    - Configure a credentialed Tenable scan to look for all the basic vulnerabilities + *DISA Windows 10 STIG v3r2*
-     <img width="1567" alt="image" src="https://github.com/user-attachments/assets/d9c3019e-930a-4b3c-92f0-6cb4cc061f6d" />
+     ![image](https://github.com/user-attachments/assets/95b1b2c5-28e1-44ed-9460-faa6f0073893)
+
 
 
 **Initial Scan**:
