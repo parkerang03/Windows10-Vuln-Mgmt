@@ -70,7 +70,8 @@ This lab is designed to be cloud-based and accessible from any computer. The lab
      
 **Document Results**:
    
-   <img width="790" alt="image" src="https://github.com/user-attachments/assets/415caeeb-31e5-4bbd-b516-babfd7a66e2e" />
+   ![image](https://github.com/user-attachments/assets/f06f9911-be1c-48ff-903b-155d6df353bb)
+
    
    - Scan 1: You can see the initial vulnerability baseline with the first scan
    - Scan 2: A spike occurred when we introduced a deprecated version of Firefox
