@@ -54,7 +54,7 @@ This lab is designed to be cloud-based and accessible from any computer. The lab
 
 ![image](https://github.com/user-attachments/assets/f5f58ec0-6fe8-418a-a556-1b67ebd88d29)
 ![image](https://github.com/user-attachments/assets/b8f62d4e-2487-4e59-9b68-1ea9cb42f6ab)
-     <img width="1690" alt="image" src="https://github.com/user-attachments/assets/30a36968-bdb5-4815-9153-56d0e12caebf" />
+![image](https://github.com/user-attachments/assets/e2be66c4-7d71-4a52-9a12-5e8505a25127)
 
 
 
