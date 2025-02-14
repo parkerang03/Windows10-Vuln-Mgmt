@@ -80,8 +80,8 @@ This lab is designed to be cloud-based and accessible from any computer. The lab
 
 ---
 
-### Why This Lab?
-This lab not only provides hands-on experience with vulnerability management but also equips you with practical skills that can enhance your cybersecurity resume. By completing the lab, you'll gain familiarity with:
+### Conclusions
+This lab not only provides hands-on experience with vulnerability management but also equips you with practical cybersecurity skills. By completing the lab, you'll gain practice with:
 - Real-world vulnerability identification and remediation.
 - Compliance frameworks such as DISA/STIG.
 - Effective use of Tenable’s tools.
